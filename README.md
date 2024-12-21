@@ -20,3 +20,6 @@ It uses a deep learning-based ResNet model trained on the Labelled Faces in the 
 
 The ResNet model ensures robust performance in encoding faces and identifying matches based on their embeddings.
 
+### Contribution 
+I conceptualized and developed this project as a Semester Project of Computer Vision.
+
